@@ -46,7 +46,7 @@ public class Caso_8 {
 		System.out.println("-- DATODS REGISTRADOS ---");
 		System.out.println("=========================");
 		
-		System.out.println("Alumno(a)\tEdad \t\tMensaje \t\tEstado");
+		System.out.println("Alumno(a)\t\tEdad \t\tMensaje \t\tEstado");
 		System.out.println("==============================================================");
 		
 		for (int i = 0; i < arrNombre.size(); i++)
